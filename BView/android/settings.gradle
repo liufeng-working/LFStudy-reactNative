@@ -1,0 +1,3 @@
+rootProject.name = 'BView'
+
+include ':app'
